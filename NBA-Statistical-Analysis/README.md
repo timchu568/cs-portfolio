@@ -2,31 +2,26 @@
 
 ## Overview
 
-This project analyzed historical NBA data to examine team scoring performance and compare the New York Knicks from 2013–2015 with the Chicago Bulls from 1996–1998.
+This project looked at historical NBA data to compare the scoring performance of the New York Knicks from 2013–2015 with the Chicago Bulls from 1996–1998.
 
-The analysis used data visualization, descriptive statistics, and confidence intervals to identify patterns in scoring performance and compare the two teams.
+I used several statistical methods to look at scoring patterns, including data visualizations, descriptive statistics, and confidence intervals.
 
-## Analysis
+## What I Analyzed
 
-The project included:
+- The distribution of points scored by each team
+- Differences between the teams' scoring distributions
+- Knicks scoring performance in home and away games
+- Mean, median, variance, and standard deviation
+- 95% confidence intervals for average scoring performance
 
-- Histograms to examine the distribution of points scored
-- Side-by-side boxplots to compare team scoring distributions
-- Descriptive statistics including mean, median, variance, and standard deviation
-- Analysis of home and away scoring performance
-- 95% confidence intervals to estimate average scoring performance
-- Comparison of scoring patterns between the two teams
+## Tools & Skills
 
-## Key Skills Demonstrated
-
-- Descriptive statistics
 - Statistical analysis
 - Data visualization
-- Confidence interval analysis
-- Comparing datasets
+- Descriptive statistics
+- Confidence intervals
 - Interpreting quantitative results
-- Communicating analytical findings
 
 ## Project Context
 
-This project was completed as part of coursework in statistics and data analysis. The analysis demonstrates how statistical methods and visualizations can be used to identify patterns in historical data and communicate findings clearly.
+This project was completed as part of my statistics coursework. It gave me practice using statistical methods to work with real-world data and communicate the results in a clear way.
